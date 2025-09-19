@@ -21,6 +21,6 @@ MyLinkedList.java
 # <실행 방법>
 Main.java 파일을 실행하면 MyLinkedList, MyStack, MyQueue의 기능 테스트 결과를 확인할 수 있습니다.
 
->>Bash
-javac -d bin src/Main.java src/MyLinkedList.java src/MyStack.java src/MyQueue.java
-java -cp bin Main
+>Bash
+>javac -d bin src/Main.java src/MyLinkedList.java src/MyStack.java src/MyQueue.java
+>java -cp bin Main
