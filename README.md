@@ -1,8 +1,8 @@
-<MyLinkedList & 자료구조 구현 과제>
+# <MyLinkedList & 자료구조 구현 과제>
 : 이 프로젝트는 자바를 사용하여 단일 연결 리스트(MyLinkedList)를 직접 구현하고, 
 이를 활용해 스택(MyStack)과 큐(MyQueue) 자료구조를 구현한 결과물입니다.
 
-<주요 기능>
+# <주요 기능>
 MyLinkedList.java
 
 1.제네릭(Generic)을 사용하여 어떤 타입의 데이터도 저장할 수 있습니다.
